@@ -1,0 +1,129 @@
+/* 
+    Document   : schooltoolhomepage
+    Created on : Jul 3, 2012, 6:17:34 PM
+    Author     : TELESPHORY
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+#accdem-time_show{
+    margin-top:4px;
+    border:solid 1px blue;
+    border-radius:6px ; 
+    background-color: #808080;
+    height:35px;
+     margin-left:180px;
+    width:970px;
+}
+.acc_year{
+    margin-left:440px;
+    margin-top:1px;
+    font-size: 20px;
+    color:#ffffff;
+    
+    
+}
+.date{
+    margin-left:12px;
+    margin-top:1px;
+    font-size: 20px;
+    color:#ffffff;
+}
+
+#top{
+    background-color: #06061A;
+    margin-left:180px;
+    width:970px;
+    border:solid 1px blue;
+    height:100px;
+}
+.header_statement{
+    position: absolute;
+    height:100px;
+    margin-top: 30px;
+    margin-left:300px;
+            
+        font-family:Arial;
+        color:#ffffff;
+        font-size:30px;
+        text-align: center;
+}
+
+#registr{
+    
+    margin-left:180px;
+    height: 500px;
+        margin-bottom: 12px;
+   width:350px;
+   border:solid 1px blue;
+}
+.login{
+     margin-left:0;
+
+        
+   border:solid 3px blue;
+}
+#ma_p{
+    
+    margin-left:0;
+ height: 500px;
+        margin-bottom: 12px;
+    width:610px;
+    border:solid 1px blue;
+  
+}
+.home{
+    color:#ffffff;
+    border:solid 1px ;
+    text-align: center;
+    background-color: #808080;
+    font-size: 20px;
+}
+.wellcome{
+    text-align: center;
+  font-size: 20px;
+}
+.login{
+     
+  color:#ffffff;
+    border:solid 1px ;
+    text-align: center;
+       background-color: #808080;
+       font-size: 20px;
+}
+.reg{
+    text-align: left;
+}
+#buttom_show{
+    border:solid 1px blue;
+    height:20px;
+     width:970px;
+     margin-left: 180px;
+       background-color: #06061A;
+   color:#ffffff;
+}
+.logo_show{
+    margin-left:0;
+    margin-top:0;
+    
+    height:92px;
+    
+    
+}
+.search{
+    margin-top: 0;
+    
+}
+
+.footer{
+    text-align: center;
+}
+
